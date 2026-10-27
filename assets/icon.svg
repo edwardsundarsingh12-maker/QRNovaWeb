@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" width="72" height="72">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8F4BFF"/><stop offset=".55" stop-color="#6A30C9"/><stop offset="1" stop-color="#4B1E9E"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="72" height="72" rx="17" fill="url(#bg)"/>
+  <path fill="#fff" fill-rule="evenodd" d="M30,30h16v16h-16z M34,34h8v8h-8z M62,30h16v16h-16z M66,34h8v8h-8z M30,62h16v16h-16z M34,66h8v8h-8z"/>
+  <path fill="#fff" d="M36,36h4v4h-4z M68,36h4v4h-4z M36,68h4v4h-4z M52,30h4v4h-4z M52,38h4v4h-4z M52,46h4v4h-4z M30,52h4v4h-4z M38,52h4v4h-4z M46,52h4v4h-4z M54,52h4v4h-4z M62,52h4v4h-4z M70,52h4v4h-4z M52,60h4v4h-4z M60,60h4v4h-4z M74,58h4v4h-4z M52,68h4v4h-4z M66,64h4v4h-4z M60,72h4v4h-4z M68,72h4v4h-4z M74,66h4v4h-4z M74,74h4v4h-4z"/>
+</svg>
